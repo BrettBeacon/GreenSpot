@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GreenSpot</string>
+    <string name="plant_title_hint">Enter a description of the plant</string>
+    <string name="plant_title_label">Title</string>
+    <string name="plant_place_hint">Enter the place you found the plant</string>
+    <string name="plant_place_label">Place</string>
+    <string name="plant_details_label">Details</string>
+    <string name="plant_report_text">Share Plant Report</string>
+    <string name="plant_shared_label">Shared</string>
+    <string name="new_plant">New Plant</string>
+    <string name="delete_plant">Delete</string>
+    <string name="plant_report">%1$s!
+        The plant was discovered in %2$s on this date: %3$s, and is %4$s
+    </string>
+    <string name="plant_report_shared">The plant is shared</string>
+    <string name="plant_report_not_shared">The plant has not been shared</string>
+    <string name="plant_report_subject">GreenSpot Plant Report</string>
+    <string name="share_plant_report">Share the plant report via</string>
+    <string name="get_gps">Get GPS</string>
+    <string name="show_map">Show Map</string>
+</resources>
